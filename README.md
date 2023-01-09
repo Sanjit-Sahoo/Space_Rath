@@ -3,5 +3,5 @@ I have envisioned this is going to be an top-down shooter using pygame and only 
 
 
 ## Files
-If you want to find all the code and sprites just go to the folder called "All Files" you can use any of this code if you want as this is just an experimental game made for fun
+If you want to find all the code and sprites just go to the repositories files in it you can use any of this code if you want as this is just an experimental game made for fun
 
